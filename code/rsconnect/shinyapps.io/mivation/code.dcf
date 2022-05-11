@@ -1,0 +1,11 @@
+name: code
+title:
+username:
+account: mivation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6278457
+bundleId: 5894011
+url: https://mivation.shinyapps.io/code/
+when: 1652254984.35318
+lastSyncTime: 1652254984.3532
