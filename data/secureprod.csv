@@ -1,0 +1,246 @@
+City,State,Country,NumUsers,PayrollLast90,HasAutoPilot,Sales45,GoalCheck,StaffSalaries,MarketingROISource,EmailReports,ActivityLast30,QuoteLast30,AvgNoLoginsDay30,SalesMixActive,ConsistencyActive,DecathlonActive,CompApplied,SalesTrackMod,ActivityTrackMod,BasicCompMod,CompUpTo10Mod,PremiumCompMod,PremiumBuilderMod,ROIMod,AspirantMod,EmailReportMod,PointsMod,VitalStatsMod,GoalsMod,BusinessUnitMod,ShowModifyCompPlanMod
+Thornhill,ON,Canada,4,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Welland,ON,Canada,7,5,10,10,10,5,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+OTTAWA ON,ON,Canada,10,5,0,10,10,0,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Indianapolis,IN,USA,6,0,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Evansville,IN,USA,4,5,0,10,10,5,5,0,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,0,0,10,10,0,5,0,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,10,10,10,0,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Scarborough,ON,Canada,7,5,0,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Smiths Falls,ON,Canada,3,5,10,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"Calgary ",AB,Canada,8,0,10,10,10,0,5,0,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,4,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,WA,NULL,1,0,0,0,10,0,5,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+CALGARY,AB,Canada,8,0,10,10,10,5,5,0,10,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Woodstock,ON,Canada,5,5,10,10,10,0,5,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Uxbridge,ON,Canada,3,5,10,10,10,0,5,5,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,13,0,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,3,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,47,5,10,0,10,0,0,5,10,0,20,no,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,yes,no,yes,no
+NULL,NULL,NULL,6,0,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"oakville ",ON,Canada,6,5,10,10,10,5,5,5,10,10,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Whitby,ON,Canada,5,0,0,10,10,5,5,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Kingston,ON,Canada,4,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Etobicoke,ON,Canada,7,5,10,10,10,0,5,0,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Richmond Hill,ON,Canada,9,5,10,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,6,5,0,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Richmond Hill,ON,Canada,10,5,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Burlington,ON,Canada,5,5,10,10,10,0,5,5,0,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+st. albert,AB,Canada,7,5,10,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+KINGSTON,ON,Canada,4,5,0,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Windsor,ON,Canada,5,5,10,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Brampton,ON,Canada,4,0,0,10,10,0,5,0,0,0,20,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,5,0,10,10,0,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Edmonton,AB,Canada,5,5,10,10,10,0,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Oakville,ON,Canada,10,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"Mississauga ",ON,Canada,4,5,10,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,10,10,10,0,5,0,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Grimsby,ON,Canada,4,5,10,10,10,0,5,0,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,12,5,10,10,10,0,0,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,0,0,10,10,5,5,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,6,5,10,10,10,5,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,10,10,10,5,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,8,5,0,10,10,0,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,10,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Woodbridge,ON,Canada,2,5,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Kingston,ON,Canada,6,5,10,10,10,0,5,5,10,10,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+CALGARY,AB,Canada,5,5,10,10,10,0,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"Scarborough ",ON,Canada,9,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,6,5,0,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Maple,ON,Canada,5,5,0,10,10,0,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Lafayette,LA,USA,5,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,6,0,0,10,10,0,5,0,0,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,5,5,0,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Milton,ON,Canada,8,5,0,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Brockville,ON,Canada,14,5,10,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+mississauga,ON,Canada,5,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ancaster,ON,Canada,6,5,10,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,10,0,10,0,5,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Etobicoke,ON,Canada,4,5,0,10,10,0,5,5,0,0,20,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Stockton,CA,USA,24,5,10,10,10,5,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Edmonton,AB,Canada,10,5,0,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,5,5,10,10,10,5,5,5,10,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,5,5,0,10,10,0,5,0,10,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Owen Sound,ON,Canada,5,5,10,10,10,5,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Naples,FL,USA,11,5,0,10,10,5,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+kitchener,ON,Canada,11,5,0,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,8,5,0,10,10,5,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+St Augustine,FL,USA,3,5,10,10,10,5,5,5,10,10,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Fredericton,NB,Canada,8,5,10,10,10,0,5,0,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,5,5,0,10,10,0,5,0,0,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Brampton,ON,Canada,3,5,10,10,10,0,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Brantford,ON,Canada,5,5,0,10,10,5,5,5,0,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,104,0,0,10,10,0,0,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ancacter,ON,Canada,11,5,0,10,10,5,5,5,10,10,20,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Brantford,ON,Canada,5,5,10,10,10,5,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,10,0,0,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+THORNHILL,ON,Canada,6,5,0,10,10,0,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,2,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,2,0,0,0,10,0,5,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Moncton,NB,Canada,7,5,0,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Kitchener,ON,Canada,4,5,10,10,10,5,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Billings,MT,USA,6,5,0,10,10,5,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Aurora,ON,Canada,5,5,10,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Sudenham,ON,Canada,4,5,10,10,10,5,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Atlanta,GA,USA,5,5,10,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Gorgetown,ON,Canada,5,0,0,0,0,0,0,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+UNIONVILLE,ON,Canada,5,5,0,10,10,0,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,241,5,10,0,10,0,0,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Freelton,ON,Canada,8,5,10,10,10,5,5,5,10,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,0,0,10,10,0,5,5,10,10,20,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,8,0,0,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Campdellville,ON,Canada,9,5,0,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,5,10,10,10,0,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,2,0,0,0,0,0,0,0,0,0,0,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,10,5,0,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+DEEP RIVER,ON,Canada,4,5,10,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+London,ON,Canada,6,0,0,10,10,0,5,0,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Bowmanville,ON,Canada,5,0,0,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,5,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Delray Beach,FL,USA,3,5,10,10,10,5,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,10,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+London,ON,Canada,6,5,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Simcoe,ON,Canada,9,5,0,10,10,0,5,0,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,10,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"ajax ",ON,Canada,8,5,0,10,10,0,5,5,10,10,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Bolton,ON,Canada,8,0,0,10,10,5,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Edmonton,AB,Canada,9,5,10,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Medicine Hat,AB,Canada,5,5,0,10,10,5,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Lindsay,ON,Canada,6,5,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Oakville,ON,Canada,9,0,0,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,4,5,10,10,10,5,5,5,10,0,20,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Markham,ON,Canada,5,5,0,10,10,5,5,0,10,10,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Kingsville,ON,Canada,11,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+London,ON,Canada,5,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Edmonton,AB,Canada,9,5,0,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ste B,LA,USA,10,5,0,10,10,5,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Monroe,NC,USA,5,0,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Stony Plain,AB,Canada,5,5,0,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+marietta,GA,USA,7,0,0,10,10,0,5,5,0,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Peterborough,ON,Canada,3,5,10,0,0,0,0,0,0,0,0,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,0,0,10,10,0,5,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,10,5,0,10,10,5,5,5,10,10,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ottawa,ON,Canada,3,5,10,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+calgary,AB,Canada,11,5,0,10,10,0,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+toronto,ON,Canada,3,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Guelph,ON,Canada,3,0,0,0,10,5,5,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,0,5,0,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,21,5,10,10,10,5,5,0,0,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,6,5,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Nepean,ON,Canada,4,5,10,10,10,5,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Milton,ON,Canada,4,5,10,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Nashua,NH,USA,4,5,0,10,10,5,5,0,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,5,5,10,10,10,0,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,20,0,10,10,10,0,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Burlington,ON,Canada,3,5,10,10,10,5,5,5,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ottawa,ON,Canada,7,5,10,10,10,0,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Nepean,ON,Canada,7,5,10,10,10,5,5,5,0,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,0,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Scarborough,ON,Canada,6,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+pickering,ON,Canada,4,5,10,10,10,0,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Bancroft,ON,Canada,7,5,0,10,10,0,5,5,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,2,5,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Edmonton,AB,Canada,6,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Laredo,TX,USA,9,0,0,10,10,0,5,0,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,1,0,0,0,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Smithville,ON,Canada,6,5,10,10,10,0,5,0,0,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,0,0,10,10,0,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Stratford,ON,Canada,5,5,0,10,10,5,5,5,10,10,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+London,ON,Canada,4,0,0,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,5,0,10,10,10,5,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,2,0,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,8,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,5,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,2,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+North York,ON,Canada,4,0,0,10,10,0,5,5,0,0,20,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,10,5,0,10,10,0,5,5,10,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Vidalia,LA,USA,3,5,10,0,10,0,5,0,0,0,0,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Fredericton,NB,Canada,10,5,10,10,10,5,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Innisfil,ON,Canada,4,0,10,10,10,5,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,10,10,10,0,5,5,10,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,NULL,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,6,5,0,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,13,5,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,10,10,10,0,5,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+NIagara-on-the-Lake,ON,Canada,6,5,10,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,0,10,10,0,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Fayetteville,AR,USA,5,0,0,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Glennwilliams,ON,Canada,10,5,10,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Renfrew,ON,Canada,7,5,0,10,10,0,5,0,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,7,5,0,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Guelph,ON,Canada,4,5,10,10,10,0,5,0,0,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+saint john,NB,Canada,6,5,10,10,10,5,0,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Hawkesbury,ON,Canada,10,5,0,10,10,5,5,5,10,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,186,5,10,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Oakville,ON,Canada,9,5,0,10,10,0,5,5,0,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Alpharetta,GA,USA,8,5,10,10,10,5,5,5,0,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,6,0,0,0,10,0,5,0,0,0,0,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+OSHAWA,ON,Canada,9,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,7,0,0,10,10,0,5,0,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,0,0,10,10,0,5,0,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Newcastle,ON,Canada,6,5,10,10,10,5,5,5,0,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"Waterdown ",ON,Canada,6,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Peterborough,ON,Canada,5,5,10,10,10,0,5,0,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,0,0,10,10,5,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+CALGARY,AB,Canada,10,5,10,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ridgeway,ON,Canada,5,5,10,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Columbia,SC,USA,6,5,10,0,0,0,0,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Sarnia,ON,Canada,5,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,6,5,10,0,0,0,0,0,0,0,0,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ottawa,ON,Canada,4,5,0,10,10,5,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,5,10,10,10,5,5,0,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Waterdown,ON,Canada,4,5,10,10,10,0,5,5,10,10,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ajax,ON,Canada,6,5,10,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,0,0,10,10,5,5,5,10,10,20,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+markham,ON,Canada,5,5,10,10,10,0,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Chatham,ON,Canada,4,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,9,0,0,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+STONEY CREEK,ON,Canada,4,5,10,10,10,5,5,0,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+edmonton,AB,Canada,7,5,10,10,10,0,5,0,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Oshawa,ON,Canada,3,5,0,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ancaster,ON,Canada,7,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+"GORMLEY ",ON,Canada,13,5,10,10,10,0,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,6,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+MISSISSAUGA,ON,Canada,6,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,1,0,0,0,10,0,5,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+Leesville,LA,USA,2,5,10,10,10,0,5,0,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Miami,FL,USA,3,5,10,0,0,0,0,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+St Albert,AB,Canada,7,0,0,10,10,5,5,5,10,0,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Woodbridge,ON,Canada,5,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,5,0,10,10,5,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Woodbridge,ON,Canada,5,5,10,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Livonia,MI,USA,2,0,0,10,10,0,5,5,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Concord,ON,Canada,3,0,0,10,10,5,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Brampton,ON,Canada,4,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,3,5,0,10,10,0,5,5,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+scarborough,ON,Canada,2,5,0,10,10,0,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Oakville,ON,Canada,5,5,10,10,10,5,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Mississauga,ON,Canada,5,5,10,10,10,5,5,5,10,10,20,no,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,6,5,10,10,10,0,5,5,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Ajax,ON,Canada,7,5,10,10,10,5,5,0,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Hayward,CA,USA,6,5,0,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,5,10,10,10,0,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Kitchener,ON,Canada,6,0,0,10,10,0,5,0,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,4,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Lethbridge,AB,Canada,8,5,10,10,10,0,5,0,10,10,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Earrie,ON,Canada,3,5,10,10,10,0,5,5,0,0,20,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Aurora,ON,Canada,3,5,10,10,10,5,5,5,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Phelpston,ON,Canada,3,5,10,0,0,0,0,5,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,208,5,10,0,10,0,0,0,0,0,0,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Calgary,AB,Canada,5,5,0,10,10,0,5,5,10,0,20,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,28,0,0,0,0,0,0,0,0,0,0,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Welland,ON,Canada,5,5,10,10,10,5,5,5,10,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Bowmanville,ON,Canada,3,5,0,10,10,5,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,6,5,10,10,10,0,5,5,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Newmarket,ON,Canada,4,5,10,10,10,0,5,0,0,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+Toronto,ON,Canada,5,5,10,10,10,0,5,5,0,0,20,no,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,7,5,10,10,10,0,5,0,10,0,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,4,0,0,10,10,5,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+King,ON,Canada,4,5,10,10,10,0,5,5,10,10,20,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
+NULL,NULL,NULL,5,5,0,10,10,0,5,0,0,0,20,no,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no
