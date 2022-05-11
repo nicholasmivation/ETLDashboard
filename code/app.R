@@ -1,7 +1,7 @@
 library(shiny)
 
-source("ui.R")
-source("server.R")
+source("code/ui.R")
+source("code/server.R")
 
-
+options(shiny.autoreload = TRUE)
 shinyApp(ui = ui, server = server)
